@@ -1,2 +1,6 @@
 <h1 align="center">btnc_ua</h1> 
-<p align="center"> <img src="https://github.com/user-attachments/assets/1381d04f-2af8-473c-9501-3cb9dc6aa0d2"</p>
+<p align="center">
+  <a href="https://github.com/BtNcUAPC">
+    <img src="https://github.com/user-attachments/assets/53bb90e4-3aa6-422c-bfde-9212f8c08ed0" />
+  </a>
+</p>
